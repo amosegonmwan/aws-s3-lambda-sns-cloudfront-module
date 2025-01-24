@@ -4,7 +4,7 @@ This Terraform project provisions a serverless setup using AWS CloudFront, S3, S
 
 ## Project Structure
 
-```
+
 ```plaintext
 .
 ├── Makefile                       # Build and deployment scripts
